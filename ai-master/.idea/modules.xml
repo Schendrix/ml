@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ai-master.iml" filepath="$PROJECT_DIR$/.idea/ai-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_ai/java_ai.iml" filepath="$PROJECT_DIR$/java_ai/java_ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_ai/mwabook/mwabook.iml" filepath="$PROJECT_DIR$/java_ai/mwabook/mwabook.iml" />
+    </modules>
+  </component>
+</project>
